@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Idifi</h1>
 <h3 align="center">A passionate backend developer from Morocco</h3>
 
-<img style="display: block;margin-left: auto;margin-right: auto;" alt="Coding" width="500" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+<img style="display: block;margin-left: auto;margin-right: auto;" alt="Coding" width="500" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2OTI5MDQsIm5iZiI6MTcwODY5MjYwNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIzVDEyNTAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmZDk5Y2RkMmNlYzUyY2VjM2Y0Yzg4N2VhZTdiNmUyYzk4ODhiNzNlZGU0ZTg0N2ZiMjQwNjM0OWNhNzI1YTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h3LiW6GAsby4EB1RVOg2JgxfU-4AVdZLRUWhPG2VwyI"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamididifi&label=Profile%20views&color=0e75b6&style=flat" alt="hamididifi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamididifi" alt="hamididifi" /></a> </p>
